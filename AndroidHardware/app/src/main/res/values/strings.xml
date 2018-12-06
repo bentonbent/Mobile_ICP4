@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidHardware</string>
+    <!--<string name="google_maps_key">AIzaSyAZnHdhfNG7XmvUGO8FYgdo0sOT0IGTMH4</string>
+
+     AIzaSyBMaWCxLGZFR6M-kqE_6WRTLK5M3EYwgag-->
+    <!--<string name="google_maps_key"></string>-->
+    <string name="title_activity_my_maps">Map</string>
+</resources>
